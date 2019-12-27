@@ -1,0 +1,54 @@
+
+- software architecture: input-process-output
+- data types: int/float/string/bool
+- data types sizes: bit / byte / 2 bytes / 4 bytes
+- type size widening / narrowing / casting
+- public static void main / method signature
+- static vs dynamic typing
+- scope of visibility
+- code flow
+- abstraction levels
+- random values generation
+- arrays
+- arrays comprehension
+- language control structures:
+    - if-else
+    - switch-case-default
+- JVM / JRE / JDK differences
+- flow: write -> compile -> run
+- clean code
+- meaningful variables naming
+- code readability
+- code-style (Classes start from upper-case letter, variables - from lower-case letter)
+
+- multidimensional arrays
+- copying array
+- anonymous arrays
+- returning array
+
+- language control structures:
+    - loops: for / while-do / do-while / break-continue
+- Logical operations: !, &&, ||
+- operator arity: unary / binary / ternary
+- ternary operator
+- how to swap values of two variables between each other
+
+- variable vs const / final / mutable - immutable
+- code structure: methods / functions / classes
+
+- varargs parameters
+- function overload
+
+- String
+- passing by value / by reference
+- primitive types (int, boolean, char, ...) vs reference types (object and array)
+
+- Classes wrappers Integer / Long ...
+- classes / objects
+
+links
+https://www.baeldung.com/java-printstream-printf
+
+
+
+
