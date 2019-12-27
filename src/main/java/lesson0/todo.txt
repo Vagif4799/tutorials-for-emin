@@ -1,0 +1,5 @@
+1. intro
+2. install applications (software-to-install.txt) link -> https://www.jetbrains.com/idea/download/#section=mac
+3. JDK install
+4.add maven framework
+4. First application "Hello World"
